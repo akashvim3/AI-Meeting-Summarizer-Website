@@ -3,6 +3,7 @@
 A comprehensive web-based tool that transforms meeting recordings and transcripts into actionable insights using AI-powered transcription and summarization.
 
 ## 🌐 Live Demo
+This is not full project link
 
 **[Try the Live Demo →](https://ai-meeting-summarizer.vercel.app)**
 
@@ -73,7 +74,7 @@ Experience the full functionality of the AI Meeting Notes Summarizer:
 
 ### 1. Clone the Repository
 \`\`\`bash
-git clone <repository-url>
+git clone <https://github.com/akashvim3/AI-Meeting-Summarizer-Website.git>
 cd ai-meeting-summarizer
 npm install
 \`\`\`
