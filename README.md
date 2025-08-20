@@ -3,9 +3,8 @@
 A comprehensive web-based tool that transforms meeting recordings and transcripts into actionable insights using AI-powered transcription and summarization.
 
 ## 🌐 Live Demo
-This is not full project link
 
-**[Try the Live Demo →](https://ai-meeting-summarizer.vercel.app)**
+**[Try the Live Demo →](https://v0-meeting-summarizer-tool.vercel.app/)**
 
 Experience the full functionality of the AI Meeting Notes Summarizer:
 - Upload sample meeting files or paste transcript text
